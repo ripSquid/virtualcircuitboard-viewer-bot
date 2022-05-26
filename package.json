@@ -1,0 +1,18 @@
+{
+  "name": "virtual_circuit_board_viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.4.1",
+    "@xingrz/cppzst": "^2.1.0-alpha.8",
+    "discord-api-types": "^0.33.0",
+    "discord.js": "^13.7.0",
+    "sharp": "^0.30.5"
+  }
+}
